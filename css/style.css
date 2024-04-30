@@ -1,7 +1,6 @@
 .rowdiv{
     display:flex;
-    width: auto;
-    height: 100px;
+    flex-grow: 1;
 
 
 }
